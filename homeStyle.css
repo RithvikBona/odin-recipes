@@ -1,0 +1,36 @@
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 144px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#backdrop {
+    background-color: rgb(172, 51, 20);
+}
+
+img {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+/*
+#left {
+    text-align: left;
+}
+
+#center {
+    text-align: center;
+}
+*/
+
+ul {
+    color: white;
+    font-size: 32px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    text-align: justify;
+}
