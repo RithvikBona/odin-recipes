@@ -13,3 +13,12 @@ img {
     width: 40%;
     height: auto;
 }
+.stepBox, .ingBox {
+    display: inline-block;
+    width:748px;
+    
+}
+p, li {
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
